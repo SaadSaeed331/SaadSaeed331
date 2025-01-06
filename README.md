@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hi there, I'm Muhammad Saad Saeed! 👋</h1>
 <p align="center">
-  <a href="www.linkedin.com/in/muhammad-saad-saeed-97b58b255"><img src="https://img.shields.io/badge/Linkedin-Saad%20Saeed-blue"></a>
+  <a href="www.linkedin.com/in/saadsaeed331"><img src="https://img.shields.io/badge/Linkedin-Saad%20Saeed-blue"></a>
   <a href="mailto:meetsaad331@gmail.com"><img src="https://img.shields.io/badge/Gmail-meetsaad331%40gmail.com-red"></a>
   <a href="https://github.com/SaadSaeed331"><img src="https://img.shields.io/badge/Github-Saad%20Saeed-blue"></a>
 </p>
